@@ -1,7 +1,7 @@
-# New Book Test 1
+# New Book Test 2
 
-## Chapter 1: Test git clone
+## Chapter 1: Test git clone 2
 
-## Chapter 2: Test git commit
+## Chapter 2: Test git commit 2
 
-## Chapter 3: Test git push
+## Chapter 3: Test git push 2
