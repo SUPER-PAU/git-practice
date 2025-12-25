@@ -1,0 +1,2 @@
+new file for test
+2 empty strings
